@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Versão 1 Redação FATEC 2024</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .container {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      width: 100%;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    /* Estilo do botão de voltar */
+    .btn-voltar {
+      display: inline-block;
+      text-align: center;
+      padding: 10px 15px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: #fff;
+      background-color: #6c757d;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background-color 0.2s ease;
+      align-self: flex-start;
+    }
+    .btn-voltar:hover {
+      background-color: #5a6268;
+    }
+    h1 {
+      font-size: 1.4rem;
+      color: #333;
+      text-align: center;
+    }
+    /* Caixa de texto responsiva, apenas leitura e selecionável */
+    .textbox {
+      width: 100%;
+      height: 250px;
+      padding: 15px;
+      font-size: 1rem;
+      line-height: 1.5;
+      color: #333;
+      background-color: #fafafa;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      resize: vertical;
+      overflow-y: auto;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+    .btn-copy {
+      padding: 12px 20px;
+      font-size: 1rem;
+      font-weight: bold;
+      color: #fff;
+      background-color: #28a745;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      width: 100%;
+    }
+    .btn-copy:hover {
+      background-color: #218838;
+    }
+    .btn-copy:active {
+      transform: scale(0.98);
+    }
+    /* Design do botão quando pressionado/copiado com sucesso */
+    .btn-copy.copiado {
+      background-color: #17a2b8 !important; /* Azul/Ciano para indicar sucesso */
+      box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.2); /* Efeito visual de afundado */
+      transform: scale(0.98);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Botão para voltar para a página principal -->
+    <a href="index.html" class="btn-voltar">← Voltar</a>
+
+    <h1>Redação FATEC 2024 - Versão 1</h1>
+    
+    <!-- Caixa de texto marcada como readonly (apenas leitura) -->
+    <textarea id="textoRedacao" class="textbox" readonly placeholder="Carregando texto..."></textarea>
+
+    <!-- Botão de cópia -->
+    <button id="btnCopiar" class="btn-copy" onclick="copiarTextoSelecionado()">Copiar Seleção</button>
+  </div>
+
+  <script>
+    // Carrega o arquivo txt da pasta do projeto dinamicamente
+    fetch('texto.txt')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Erro ao carregar o arquivo de texto.");
+        }
+        return response.text();
+      })
+      .then(data => {
+        document.getElementById('textoRedacao').value = data;
+      })
+      .catch(error => {
+        console.error(error);
+        document.getElementById('textoRedacao').value = "Erro ao carregar o texto da redação.";
+      });
+
+    // Função para copiar o texto selecionado (ou tudo se não houver seleção específica)
+    function copiarTextoSelecionado() {
+      const textarea = document.getElementById('textoRedacao');
+      const botao = document.getElementById('btnCopiar');
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+
+      // Obtém o texto selecionado na caixa
+      let textoParaCopiar = textarea.value.substring(start, end);
+
+      // Se nada estiver selecionado manualmente, seleciona e copia todo o texto
+      if (!textoParaCopiar) {
+        textoParaCopiar = textarea.value;
+      }
+
+      if (textoParaCopiar) {
+        navigator.clipboard.writeText(textoParaCopiar)
+          .then(() => {
+            // Altera o texto e o estilo visual do botão
+            botao.textContent = "Texto copiado!";
+            botao.classList.add('copiado');
+
+            // Retorna ao estado original após 2 segundos
+            setTimeout(() => {
+              botao.textContent = "Copiar Seleção";
+              botao.classList.remove('copiado');
+            }, 2000);
+          })
+          .catch(err => {
+            console.error('Erro ao copiar texto: ', err);
+          });
+      }
+    }
+  </script>
+
+</body>
+</html>
