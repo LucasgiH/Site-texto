@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- forma lista link clicaveis -->
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -24,21 +25,30 @@
       padding: 25px 30px;
       border-radius: 12px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      text-align: center;
       width: 100%;
       max-width: 400px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px; /* Espaço entre os itens da lista */
     }
     .responsive-link {
       display: block;
+      background-color: #f8f9fa;
+      padding: 12px 15px;
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
       color: #0056b3;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       font-weight: bold;
       text-decoration: none;
       word-wrap: break-word;
-      transition: color 0.3s ease;
+      transition: all 0.3s ease;
+      text-align: center;
     }
     .responsive-link:hover {
+      background-color: #e9ecef;
       color: #003d82;
+      border-color: #0056b3;
       text-decoration: underline;
     }
   </style>
@@ -47,6 +57,7 @@
 
   <div class="link-container">
     <a href="redacao1.html" class="responsive-link">versao 1 redacao fatec 2024</a>
+    <a href="questoes1.html" class="responsive-link">sequencia questoes 4/5 verde 261107</a>
   </div>
 
 </body>
