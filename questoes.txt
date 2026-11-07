@@ -1,0 +1,51 @@
+<inicio>
+Questão 1
+Em uma unidade de atendimento, uma pessoa passa mal e cai ao chão no corredor. Ao perceber a situação, qual deve ser a primeira atitude de quem vai prestar os primeiros socorros?
+a) Levantar a pessoa imediatamente e levá-la para uma cadeira, para que ela fique mais confortável.
+b) Dar um copo de água para a pessoa se recuperar.
+c) Verificar se o local é seguro, tanto para quem vai ajudar quanto para a pessoa que caiu. (resposta correta)
+d) Fazer várias perguntas sobre o histórico de saúde da pessoa antes de qualquer outra ação.
+<fim>
+<inicio>
+Questão 2
+Durante uma oficina em um Serviço de Convivência e Fortalecimento de Vínculos, no dia 12/11, às 15h20, dois adolescentes discutiram. Pedro (13 anos) empurrou Lucas (14 anos), que bateu o braço na mesa e relatou dor leve. A educadora social Marta separou os dois, observou o estado de Lucas, avisou a coordenação e telefonou à responsável por Lucas. Em seguida, precisa registrar a ocorrência no livro da unidade.
+Qual dos registros a seguir está adequado?
+a) "Hoje o Pedro, que é um menino agressivo e sem limites, agrediu o Lucas sem motivo nenhum. A família dele não se importa com o comportamento do filho. Ele precisa de punição."
+b) "Houve uma briga na oficina e um menino se machucou. A coordenação foi avisada."
+c) "Em 12/11, às 15h20, durante a oficina de artes, os adolescentes Pedro (13 anos) e Lucas (14 anos) discutiram. Pedro empurrou Lucas, que bateu o braço na mesa e relatou dor leve. A educadora Marta separou os dois, observou o estado de Lucas, informou a coordenação e telefonou à responsável por Lucas. Ficam pendentes o relato de Pedro e a avaliação da equipe técnica sobre os encaminhamentos. Marta, educadora social." (resposta correta)
+d) "Em 12/11, durante a oficina, Pedro empurrou Lucas. Registro que Pedro mora com a avó, que a mãe responde a processo por maus-tratos e que a família recebe benefício de transferência de renda. A escola e os vizinhos foram avisados do ocorrido."
+<fim>
+<inicio>
+Questão 3
+Você chega perto de uma pessoa deitada no chão, imóvel. O local já foi verificado e está seguro. Qual deve ser o próximo passo da avaliação inicial?
+a) Dar tapas no rosto da pessoa para tentar despertá-la rapidamente.
+b) Chamar a pessoa em voz alta e tocar levemente em seus ombros para verificar se ela responde. (resposta correta)
+c) Jogar água no rosto da pessoa para que ela reaja.
+d) Levantar a pessoa pelos braços para sentá-la e observar se ela se recupera.
+<fim>
+<inicio>
+Questão 4
+Um participante adulto, de cerca de 45 anos, cai da escada do pátio e fica deitado, imóvel. O local está seguro. O educador se aproxima, chama a pessoa em voz alta e toca em seus ombros: ela não responde. Em seguida, olha o tórax por alguns segundos e percebe que a pessoa não está respirando.
+Assinale a alternativa que apresenta, ao mesmo tempo, a conduta mais adequada e a justificativa correta:
+a) Acionar o SAMU (192) e, seguindo as orientações recebidas, iniciar compressões no centro do peito, pois a ausência de resposta e de respiração normal indica risco imediato de vida, e cada minuto sem circulação reduz muito as chances de sobrevivência. (resposta correta)
+b) Acionar o SAMU (192) e iniciar compressões no centro do peito, pois as compressões só podem começar depois de confirmar a parada do coração, medindo o pulso no pescoço por, no mínimo, 1 minuto.
+c) Acionar o SAMU (192) e aguardar a equipe sem tocar na pessoa, pois qualquer contato com a vítima de queda por quem não é profissional é proibido e pode agravar lesões.
+d) Posicionar a pessoa de lado, na posição lateral de segurança, e aguardar a equipe, pois essa posição é indicada para quem não respira e evita que a língua obstrua as vias aéreas.
+<fim>
+<inicio>
+Questão 5
+Durante uma reunião, um participante de 50 anos se levanta, fica pálido, desmaia e cai sentado no chão, sem bater a cabeça. O educador se aproxima. O local está sem riscos aparentes. A pessoa não responde quando é chamada e tocada nos ombros, mas o tórax sobe e desce de forma regular.
+Estas são as ações possíveis:
+Verificar a segurança do local.
+Chamar a pessoa em voz alta e tocar levemente em seus ombros.
+Olhar o tórax por até 10 segundos para ver se ela respira.
+Iniciar compressões no centro do peito.
+Acionar o SAMU (192).
+Colocar a pessoa de lado (posição lateral de segurança) e acompanhar a respiração até a chegada da equipe.
+Oferecer água com açúcar para ajudar na recuperação.
+Neste caso, duas das sete ações não devem ser realizadas. Assinale a alternativa com a sequência correta das cinco ações adequadas:
+a) 1 – 2 – 3 – 5 – 6 (resposta correta)
+b) 1 – 2 – 3 – 7 – 6
+c) 1 – 2 – 3 – 4 – 5
+d) 1 – 3 – 2 – 5 – 6
+<fim>

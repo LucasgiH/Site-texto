@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<!-- reproduzindo todas questoes do arquivo -->
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sequência de Questões</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .main-container {
+      width: 100%;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    /* Estilo do botão de voltar */
+    .btn-voltar {
+      display: inline-block;
+      text-align: center;
+      padding: 10px 15px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: #fff;
+      background-color: #6c757d;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background-color 0.2s ease;
+      align-self: flex-start;
+    }
+    .btn-voltar:hover {
+      background-color: #5a6268;
+    }
+    h1 {
+      font-size: 1.4rem;
+      color: #333;
+      text-align: center;
+    }
+    /* Card individual para cada questão gerada */
+    .question-card {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .question-title {
+      font-size: 1.1rem;
+      color: #333;
+      font-weight: bold;
+    }
+    /* Caixa de texto responsiva, apenas leitura e selecionável */
+    .textbox {
+      width: 100%;
+      height: 200px;
+      padding: 15px;
+      font-size: 1rem;
+      line-height: 1.5;
+      color: #333;
+      background-color: #fafafa;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      resize: vertical;
+      overflow-y: auto;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+    .btn-copy {
+      padding: 12px 20px;
+      font-size: 1rem;
+      font-weight: bold;
+      color: #fff;
+      background-color: #28a745;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      width: 100%;
+    }
+    .btn-copy:hover {
+      background-color: #218838;
+    }
+    .btn-copy:active {
+      transform: scale(0.98);
+    }
+    /* Design do botão quando copiado com sucesso */
+    .btn-copy.copiado {
+      background-color: #17a2b8 !important;
+      box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.2);
+      transform: scale(0.98);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="main-container" id="containerPrincipal">
+    <!-- Botão para voltar para a página principal -->
+    <a href="index1.html" class="btn-voltar">← Voltar</a>
+
+    <h1>sequencia questoes 4/5 verde 261107</h1>
+    
+    <!-- As questões serão injetadas dinamicamente aqui pelo JavaScript -->
+    <div id="loading" style="text-align: center; color: #666; padding: 20px;">Carregando questões...</div>
+  </div>
+
+  <script>
+    // Carrega o arquivo txt da pasta do projeto dinamicamente
+    fetch('questoes.txt')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Erro ao carregar o arquivo de texto.");
+        }
+        return response.text();
+      })
+      .then(data => {
+        const linhas = data.split(/\r?\n/);
+        let capturando = false;
+        let blocosDeTexto = [];
+        let blocoAtual = [];
+
+        // Varre o arquivo linha por linha procurando as tags <inicio> e <fim>
+        for (const linha of linhas) {
+          const linhaTrim = linha.trim().toLowerCase();
+
+          if (linhaTrim === '<inicio>') {
+            capturando = true;
+            blocoAtual = []; // Inicia um novo bloco vazio
+            continue; // Pula a linha da tag <inicio> para não exibi-la
+          }
+
+          if (linhaTrim === '<fim>') {
+            if (capturando) {
+              capturando = false;
+              blocosDeTexto.push(blocoAtual.join('\n'));
+            }
+            continue; // Pula a linha da tag <fim>
+          }
+
+          if (capturando) {
+            blocoAtual.push(linha);
+          }
+        }
+
+        const containerPrincipal = document.getElementById('containerPrincipal');
+        document.getElementById('loading').remove(); // Remove a mensagem de carregamento
+
+        if (blocosDeTexto.length > 0) {
+          // Cria dinamicamente um card com textarea e botão para cada bloco encontrado
+          blocosDeTexto.forEach((textoBloco, index) => {
+            const numeroQuestao = index + 1;
+
+            const card = document.createElement('div');
+            card.className = 'question-card';
+
+            card.innerHTML = `
+              <div class="question-title">Questão ${numeroQuestao}</div>
+              <textarea id="textbox-${index}" class="textbox" readonly>${textoBloco}</textarea>
+              <button id="btn-copy-${index}" class="btn-copy" onclick="copiarTexto(${index})">Copiar Questão ${numeroQuestao}</button>
+            `;
+
+            containerPrincipal.appendChild(card);
+          });
+        } else {
+          const aviso = document.createElement('div');
+          aviso.style.textAlign = 'center';
+          aviso.style.color = '#666';
+          aviso.textContent = "Nenhum bloco de questão encontrado com as tags <inicio> e <fim>.";
+          containerPrincipal.appendChild(aviso);
+        }
+      })
+      .catch(error => {
+        console.error(error);
+        document.getElementById('loading').textContent = "Erro ao carregar o arquivo de texto.";
+      });
+
+    // Função de cópia individual adaptada para o índice da questão
+    function copiarTexto(index) {
+      const textarea = document.getElementById(`textbox-${index}`);
+      const botao = document.getElementById(`btn-copy-${index}`);
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+
+      let textoParaCopiar = textarea.value.substring(start, end);
+
+      if (!textoParaCopiar) {
+        textoParaCopiar = textarea.value;
+      }
+
+      if (textoParaCopiar) {
+        navigator.clipboard.writeText(textoParaCopiar)
+          .then(() => {
+            const textoOriginal = botao.textContent;
+            botao.textContent = "Texto copiado!";
+            botao.classList.add('copiado');
+
+            setTimeout(() => {
+              botao.textContent = textoOriginal;
+              botao.classList.remove('copiado');
+            }, 2000);
+          })
+          .catch(err => {
+            console.error('Erro ao copiar texto: ', err);
+          });
+      }
+    }
+  </script>
+
+</body>
+</html>
