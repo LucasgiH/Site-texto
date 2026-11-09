@@ -49,3 +49,104 @@ b) 1 – 2 – 3 – 7 – 6
 c) 1 – 2 – 3 – 4 – 5
 d) 1 – 3 – 2 – 5 – 6
 <fim>
+<inicio>
+Questão (nível difícil, associação com uma "pegadinha química"):
+Na planta de combustível sintético descrita no texto, o dióxido de carbono e a água passam por diversas transformações. Associe cada situação da Coluna I ao nome que a descreve na Coluna II.
+COLUNA I
+A. O CO₂ gasoso do ar atmosférico é pressurizado e resfriado, passando ao estado líquido (processo indicado em I no esquema).
+B. O CO₂ líquido armazenado é despressurizado ao sair do tanque e passa ao estado gasoso.
+C. O gelo-seco (CO₂ sólido), exposto ao ambiente à pressão de 1 atm, passa diretamente ao estado gasoso.
+D. A água é decomposta em hidrogênio (H₂) e oxigênio (O₂) pela passagem de corrente elétrica.
+COLUNA II
+( ) Sublimação
+( ) Condensação
+( ) Vaporização
+( ) Transformação química, e não mudança de estado físico
+Assinale a alternativa que apresenta, de cima para baixo, a sequência correta das letras da Coluna I:
+a) C – A – B – D (resposta correta)
+b) C – B – A – D
+c) A – B – C – D
+d) C – A – D – B
+<fim>
+<inicio>
+Leia com atenção o texto a seguir para responder às perguntas 
+desta prova. 
+Futebol de menino
+ Esta pracinha sem aquela pelada virou uma chatice completa: 
+agora, é uma babá que passa, empurrando, sem afeto, um bebê 
+de carrinho, é um par de velhos que troca silêncios num banco sem 
+encosto.
+ E, no entanto, ainda ontem, isso aqui fervia de menino, de sol, 
+de bola, de sonho: “Eu jogo na linha! eu sou o Pelé; no gol, eu não 
+jogo, tô com o joelho ralado de ontem; vou ficar aqui atrás: entrou 
+aqui, já sabe.” Uma gritaria, todo mundo se escalando, todo 
+mundo querendo tirar o selo da bola, bendito fruto de uma suada 
+vaquinha.
+ Oito de cada lado e, para não confundir, um time fica como 
+está; o outro joga sem camisa.
+ Já reparei uma coisa: bola de futebol, seja nova, seja velha, é 
+um ser muito compreensivo que dança conforme a música: se está 
+no Maracanã, numa decisão de título, ela rola e quiçá com um ar 
+dramático, mantendo sempre a mesma pose adulta, esteja nos pés 
+de Gérson ou nas mãos de um gandula.
+ Em compensação, num racha de menino ninguém é mais 
+sapeca: ela corre para cá, corre para lá, quica no meio-fio, para de 
+estalo no canteiro, lambe a canela de um, deixa-se espremer entre 
+mil canelas, depois escapa, rolando, doida, pela calçada. Parece 
+um bichinho.
+ Aqui, nessa pelada inocente é que se pode sentir a pureza de 
+uma bola. Afinal, trata-se de uma bola profissional, um número 
+cinco, cheia de carimbos ilustres: “Copa Rio-Oficial”, “FIFA –
+Especial”. Uma bola assim, toda de branco, coberta de 
+condecorações por todos os gomos (gomos hexagonais!), jamais 
+seria barrada em recepção do Itamaraty.
+ No entanto, aí está ela, correndo para cima e para baixo, na 
+maior farra do mundo, disputada, maltratada até, pois, de quando 
+em quando, acertam-lhe um bico, ela sai zarolha, vendo estrelas, 
+coitadinha.
+ Racha é assim mesmo: tem bico, mas tem também sem-pulo 
+de craque como aquele do Tona, que empatou a pelada e que lava 
+a alma de qualquer bola. Uma pintura.
+ Nova saída.
+ Entra na praça batendo palmas como quem enxota galinha no 
+quintal. É um velho com cara de guarda-livros que, sem pedir 
+licença, invade o universo infantil de uma pelada e vai expulsando 
+todo mundo. Num instante, o campo está vazio, o mundo está 
+vazio. Não deu tempo nem de desfazer as traves feitas de camisas.
+ O espantalho-gente pega a bola, viva, ainda, tira do bolso um 
+canivete e dá-lhe a primeira espetada. No segundo golpe, a bola 
+começa a sangrar.
+ Em cada gomo o coração de uma criança.
+NOGUEIRA, Armando. Bola na rede. Ed. José Olympio. Rio de Janeiro. 1996.
+1 
+Esse texto é designado como crônica devido ao fato de ele
+(A) ser uma narrativa direta, sem interrupções.
+(B) mostrar um fato isolado, sem relação com outros. (resposta correta)
+(C) trazer comentários sobre um fato do cotidiano.
+(D) explorar um tema simples, popular.
+(E) informar sobre um fato curioso
+<fim>
+<inicio>
+2 
+No texto há quatro exemplos de diminutivos: pracinha, vaquinha, 
+bichinho e coitadinha.
+Sobre eles, assinale a afirmativa correta.
+(A) Pracinha e vaquinha mostram pequena dimensão.
+(B) Coitadinha é um diminutivo de valor afetivo. (resposta correta)
+(C) Vaquinha é diminutivo de valor irônico.
+(D) Bichinho e coitadinha mostram valor intensivo.
+(E) Pracinha e bichinho mostram o mesmo valor diminutivo.
+<fim>
+<inicio>
+Questão 6
+O texto a seguir reproduz trechos do art. 227 da Constituição Federal, mas alguns deles foram adulterados. Cada trecho está numerado.
+"É dever da (1) família, da comunidade e do Estado assegurar à criança, ao adolescente e ao jovem, (2) com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, (3) ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária.
+§ 3º O direito a proteção especial abrangerá os seguintes aspectos: I – (4) idade mínima de quatorze anos para admissão ao trabalho, observado o disposto no art. 7º, XXXIII.
+§ 5º (5) A adoção será assistida pelo Poder Público, na forma da lei, que estabelecerá casos e condições de sua efetivação por parte de estrangeiros.
+§ 7º (6) No atendimento dos direitos da criança e do adolescente levar-se-á em consideração o disposto no art. 203."
+Considerando apenas o texto da Constituição Federal, assinale a alternativa que indica todos os trechos adulterados, e somente eles:
+a) 1 e 3, apenas.
+b) 1, 3 e 6, apenas. (resposta correta)
+c) 3, 4 e 6, apenas.
+d) 1, 4 e 6, apenas.
+<fim>
