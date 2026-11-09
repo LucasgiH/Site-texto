@@ -150,3 +150,34 @@ b) 1, 3 e 6, apenas. (resposta correta)
 c) 3, 4 e 6, apenas.
 d) 1, 4 e 6, apenas.
 <fim>
+<inicio>
+Questão 1 | LOAS (Lei Federal nº 8.742/1993)
+Durante o atendimento em um CRAS, um servidor afirma que a assistência social, por ser uma política pública não contributiva, deve atender indistintamente todas as pessoas que necessitem de algum tipo de apoio, independentemente dos critérios estabelecidos em seus programas e benefícios.
+Considerando as disposições da Lei nº 8.742/1993 (LOAS), assinale a alternativa CORRETA.
+A) A assistência social possui caráter contributivo indireto, uma vez que seu financiamento depende de contribuições previdenciárias dos trabalhadores.
+B) A assistência social é direito do cidadão e dever do Estado, constituindo Política de Seguridade Social não contributiva, que provê os mínimos sociais e é realizada por meio de um conjunto integrado de ações de iniciativa pública e da sociedade. (resposta correta)
+C) A assistência social é destinada exclusivamente às pessoas em situação de pobreza extrema, sendo vedado o atendimento de indivíduos que não estejam nessa condição.
+D) A assistência social deve garantir benefícios financeiros a qualquer pessoa que comprove insuficiência de renda, independentemente dos critérios legais específicos de cada benefício.
+E) A assistência social é uma política pública facultativa aos municípios, que podem optar por não integrar o Sistema Único de Assistência Social (SUAS).
+<fim>
+<inicio>
+3 
+No primeiro parágrafo do texto o cronista fala de uma cena 
+desinteressante e monótona e para indicar isso usou uma série de 
+expressões. 
+Assinale a opção que mostra a expressão que não colabora para 
+essa ideia.
+(A) chatice.
+(B) sem afeto.
+(C) troca silêncios.
+(D) sem encosto. (resposta correta)
+(E) sem aquela pelada.
+<fim>
+<inicio>
+LOAS | Questão 2: nível difícil
+1. Com base na Lei Federal nº 8.742/1993 (LOAS), um servidor está analisando as diretrizes de organização da assistência social. Assinale a alternativa que apresenta uma afirmação integralmente correta.
+   A. A descentralização político-administrativa distribui as competências entre União, estados, Distrito Federal e municípios, cabendo à União a coordenação e as normas gerais, enquanto a coordenação e a execução dos respectivos programas ficam a cargo das demais esferas e entidades beneficentes e de assistência social. (resposta correta)
+   B. A participação da população ocorre por meio de organizações representativas, que assumem a coordenação e a execução das ações assistenciais em substituição aos órgãos governamentais.
+   C. A descentralização político-administrativa atribui aos municípios a coordenação geral da política nacional, enquanto a União atua principalmente no financiamento dos serviços locais.
+   D. A primazia da responsabilidade do Estado na condução da política de assistência social significa que a execução de todos os serviços deve ocorrer exclusivamente por órgãos públicos.
+<fim>
