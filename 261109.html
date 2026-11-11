@@ -119,7 +119,7 @@
 
   <script>
     // Carrega o arquivo txt da pasta do projeto dinamicamente
-    fetch('questoes.txt')
+    fetch('questoes1.txt')
       .then(response => {
         if (!response.ok) {
           throw new Error("Erro ao carregar o arquivo de texto.");
@@ -159,8 +159,9 @@
         document.getElementById('loading').remove(); // Remove a mensagem de carregamento
 
         if (blocosDeTexto.length > 0) {
-          // LIMITAÇÃO APLICADA AQUI: pega apenas do índice 0 até o 5 (ou seja, os primeiros 5 blocos)
-          const blocosLimitados = blocosDeTexto.slice(9, 12);
+            const total = blocosDeTexto.length;
+            // LIMITAÇÃO APLICADA AQUI: pega apenas do índice 0 até o 5 (ou seja, os primeiros 5 blocos)
+            const blocosLimitados = blocosDeTexto.slice(total-12, total-9);
 
           // Cria dinamicamente um card com textarea e botão para cada bloco limitado
           blocosLimitados.forEach((textoBloco, index) => {
