@@ -1,4 +1,70 @@
 <inicio>
+12 
+Antônio, Benedito e Celestino tinham quantidades distintas de bolas de gude. Antônio passou 5 de suas bolas para Benedito de modo que ambos passaram a ter a mesma quantidade de bolas. Em seguida, Benedito passou 3 de suas bolas para Celestino de modo que cada um dos dois passou a ter 10 bolas de gude.
+Nesse caso, é correto afirmar que, originalmente,
+(A) Antônio tinha 11 bolas a mais que Celestino. (resposta correta)
+(B) Antônio tinha 8 bolas a mais que Benedito.
+(C) Benedito tinha 4 bolas a mais que Celestino.
+(D) Benedito tinha mais de 10 bolas.
+(E) Celestino tinha menos de 5 bolas.
+<fim>
+<inicio>
+Questão 2 | Medidas de proteção
+1. De acordo com o Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), as medidas de proteção são aplicáveis quando os direitos reconhecidos na lei forem ameaçados ou violados. Sobre essas medidas, assinale a alternativa integralmente CORRETA.
+   A. Na aplicação das medidas de proteção, devem ser consideradas as necessidades pedagógicas, preferindo-se aquelas que visem ao fortalecimento dos vínculos familiares e comunitários, sendo vedada a aplicação de mais de uma medida simultaneamente.
+   B. As medidas de proteção podem ser aplicadas isolada ou cumulativamente, bem como substituídas a qualquer tempo, devendo ser considerados os fins sociais a que se destinam, as exigências do bem comum, os direitos e deveres individuais e coletivos e a condição peculiar da criança e do adolescente como pessoas em desenvolvimento. (resposta correta)
+   C. As medidas de proteção podem ser aplicadas isolada ou cumulativamente, bem como substituídas a qualquer tempo, desde que sejam considerados os fins sociais a que se destinam e as exigências do bem comum.
+   D. A aplicação das medidas de proteção depende necessariamente da comprovação de uma infração penal praticada pelos pais ou responsáveis, ainda que a ameaça ou violação dos direitos decorra de ação ou omissão da sociedade.
+<fim>
+<inicio>
+Questão 1 | Estatuto da Criança e do Adolescente
+1. Com base na Lei Federal nº 8.069/1990 (ECA), analise as disposições relativas aos direitos fundamentais da criança e do adolescente e assinale a alternativa integralmente CORRETA.
+   A. É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. (resposta correta)
+   B. A garantia de prioridade compreende a primazia de receber proteção e socorro em quaisquer circunstâncias, a precedência de atendimento nos serviços públicos ou de relevância pública e a preferência na formulação e execução das políticas sociais públicas, sendo a destinação privilegiada de recursos públicos restrita aos programas de educação e saúde.
+   C. A proteção integral assegurada pelo ECA reconhece crianças e adolescentes como sujeitos de direitos, garantindo-lhes todos os direitos fundamentais inerentes à pessoa humana, desde que tenham atingido a idade mínima de doze anos.
+   D. A criança e o adolescente têm direito à liberdade, ao respeito e à dignidade como pessoas humanas em processo de desenvolvimento, mas a liberdade de opinião e expressão pode ser exercida somente mediante autorização dos pais ou responsáveis.
+<fim>
+<inicio>
+11 
+Na cidade de Fermentolândia, todos os padeiros são solteiros ou têm ascendência italiana. 
+Considerando essa afirmativa como verdadeira, é correto concluir que, 
+(A) se um cidadão de Fermentolândia é solteiro, mas não tem ascendência italiana, então é padeiro.
+(B) se um cidadão de Fermentolândia tem ascendência italiana, mas não é solteiro, então é padeiro.
+(C) se um cidadão de Fermentolândia é solteiro e tem ascendência italiana, então não é padeiro.
+(D) se um cidadão de Fermentolândia não é solteiro e não tem ascendência italiana, então é padeiro.
+(E) se um cidadão de Fermentolândia não é solteiro e não tem ascendência italiana, então não é padeiro. (resposta correta)
+<fim>
+<inicio>
+10 
+Leia o fragmento a seguir. 
+Entra na praça batendo palmas como quem enxota galinha no quintal. É um velho com cara de guarda-livros que, sem pedir licença, invade o universo infantil de uma pelada e vai expulsando todo mundo. Num instante, o campo está vazio, o mundo está vazio. Não deu tempo nem de desfazer as traves feitas de camisas.
+O espantalho-gente pega a bola, viva, ainda, tira do bolso um canivete e dá-lhe a primeira espetada. No segundo golpe, a bola começa a sangrar.
+Assinale a opção que apresenta o comentário ou a modificação adequada.
+(A) “batendo palmas” equivale a “sem pressa”.
+(B) “...como quem enxota galinha no quintal” mostra uma comparação afetiva.
+(C) “...com cara de guarda-livros” mostra um distanciamento entre o mundo adulto e o infantil. (resposta correta)
+(D) “dá-lhe a primeira espetada” mostra que um só golpe foi capaz de acabar com a fantasia infantil.
+(E) “sem pedir licença” equivale a “sem que pedisse licença”.
+<fim>
+<inicio>
+9 
+Assinale a frase que mostra a variedade culta da linguagem.
+(A) ...de quando em quando, acertam-lhe um bico, ela sai zarolha, vendo estrelas, coitadinha. 
+(B) E, no entanto, ainda ontem, isso aqui fervia de menino, de sol, de bola, de sonho. 
+(C) vou ficar aqui atrás: entrou aqui, já sabe.
+(D) Uma gritaria, todo mundo se escalando, todo mundo querendo tirar o selo da bola, bendito fruto de uma suada vaquinha.
+(E) Oito de cada lado e, para não confundir, um time fica como está; o outro joga sem camisa. (resposta correta)
+<fim>
+<inicio>
+8 
+Assinale a afirmação correta sobre a frase “fica como está.”
+(A) Indica a presença do vocabulário infantil.
+(B) Presentifica o fato narrado. (resposta correta)
+(C) Mostra uma ordem de algum líder.
+(D) Alude a uma discordância entre os jogadores.
+(E) Emprega-se um exemplo de gíria popular.
+<fim>
+<inicio>
 Questão (nível difícil, conduta + diretriz violada):
 O município de Pedra Azul, de médio porte, tomou duas decisões ao reorganizar a assistência social:
 Decisão 1: transferiu a uma organização da sociedade civil, por termo de colaboração, toda a condução da política. Isso inclui o planejamento, a definição das prioridades e a gestão do fundo. A secretaria municipal ficou apenas com um setor para fiscalizar o contrato. O prefeito justificou a medida dizendo que a entidade "está mais próxima da população" e que isso é descentralização.
