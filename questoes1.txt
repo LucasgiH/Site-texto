@@ -1,4 +1,23 @@
 <inicio>
+14 
+Alípio entra em uma loja de eletrodomésticos para comprar uma cafeteira elétrica e um liquidificador. O vendedor oferece desconto de 10% sobre o preço da cafeteira, que passa a custar o dobro do preço do liquidificador. Alípio aceita a oferta e paga R$675,00 pelos dois produtos. O preço original da cafeteira 
+(A) é menor do que R$493,00.
+(B) está entre R$493,00 e R$497,00.
+(C) está entre R$497,00 e R$501,00. (resposta correta)
+(D) está entre R$501,00 e R$505,00.
+(E) é maior do que R$505,00.
+<fim>
+<inicio>
+13 
+Em uma sequência de números inteiros, a soma dos 𝒏 primeiros números dessa sequência é dada pela fórmula 𝑺𝒏 = 𝟒 − 𝟑𝒏 + 𝒏𝟐
+Nesse caso, é correto afirmar que tal sequência
+(A) é estritamente crescente.
+(B) é estritamente decrescente. 
+(C) tem algum termo nulo. (resposta correta)
+(D) tem algum termo negativo. 
+(E) tem algum termo ímpar.
+<fim>
+<inicio>
 12 
 Antônio, Benedito e Celestino tinham quantidades distintas de bolas de gude. Antônio passou 5 de suas bolas para Benedito de modo que ambos passaram a ter a mesma quantidade de bolas. Em seguida, Benedito passou 3 de suas bolas para Celestino de modo que cada um dos dois passou a ter 10 bolas de gude.
 Nesse caso, é correto afirmar que, originalmente,
