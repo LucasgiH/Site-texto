@@ -1,4 +1,15 @@
 <inicio>
+Questão (nível difícil, um pouco acima da original):
+Marta entra em uma loja para comprar uma batedeira e um ventilador. O vendedor oferece desconto de 20% sobre o preço da batedeira e desconto de 10% sobre o preço do ventilador. Com os descontos, a batedeira passa a custar 60% a mais do que o ventilador.
+Marta aceita a oferta e paga R$ 468,00 pelos dois produtos.
+O preço original da batedeira
+(A) é menor do que R$ 350,00.
+(B) está entre R$ 350,00 e R$ 358,00.
+(C) está entre R$ 358,00 e R$ 362,00. (resposta correta)
+(D) está entre R$ 362,00 e R$ 370,00.
+(E) é maior do que R$ 370,00.
+<fim>
+<inicio>
 14 
 Alípio entra em uma loja de eletrodomésticos para comprar uma cafeteira elétrica e um liquidificador. O vendedor oferece desconto de 10% sobre o preço da cafeteira, que passa a custar o dobro do preço do liquidificador. Alípio aceita a oferta e paga R$675,00 pelos dois produtos. O preço original da cafeteira 
 (A) é menor do que R$493,00.
