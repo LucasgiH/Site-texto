@@ -1,4 +1,22 @@
 <inicio>
+Questão (nível médio):
+Sobre a Política Nacional de Assistência Social (PNAS/2004), assinale a alternativa CORRETA.
+(A) A proteção social especial de alta complexidade atende famílias e indivíduos que mantêm seus vínculos familiares e comunitários preservados, mas que têm direitos violados.
+(B) O Centro de Referência Especializado de Assistência Social (CREAS) é a porta de entrada da rede de assistência e executa os serviços de proteção social básica.
+(C) Entre os serviços de proteção social especial de alta complexidade estão o atendimento integral institucional, como abrigos e casas-lares, e a família acolhedora. (resposta correta)
+(D) A proteção social básica é voltada a famílias que já sofreram violação de direitos, como abuso sexual e maus-tratos.
+(E) A PNAS prevê que a assistência social deve ser organizada de forma centralizada na União, sem participação de estados e municípios.
+<fim>
+<inicio>
+Questão (nível médio):
+Sobre a Política Nacional de Assistência Social (PNAS/2004), assinale a alternativa CORRETA.
+(A) A PNAS organiza a assistência social em um sistema privado, de caráter contributivo, financiado exclusivamente pelos usuários.
+(B) A proteção social básica destina-se à população em situação de risco pessoal e social por violação de direitos, como abandono, maus-tratos e exploração.
+(C) O Centro de Referência de Assistência Social (CRAS) é a unidade pública estatal responsável pela oferta de serviços de proteção social básica, e atua como porta de entrada para a rede de assistência. (resposta correta)
+(D) A matricialidade sociofamiliar significa que a assistência social deve atender indivíduos de forma isolada, sem considerar a família.
+(E) A descentralização político-administrativa prevê que a coordenação e as normas gerais ficam com os municípios, e a execução dos programas com a União.
+<fim>
+<inicio>
 Questão:
 O sistema monetário de certo lugar é composto, exclusivamente, por notas de $2, $5, $11 e $20.
 Com 4 dessas notas (podendo repetir) nunca será possível obter
