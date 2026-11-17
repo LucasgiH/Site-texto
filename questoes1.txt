@@ -1,4 +1,51 @@
 <inicio>
+Questão:
+O sistema monetário de certo lugar é composto, exclusivamente, por notas de $2, $5, $11 e $20.
+Com 4 dessas notas (podendo repetir) nunca será possível obter
+(A) $23.
+(B) $30. (resposta correta)
+(C) $32.
+(D) $38.
+(E) $41.
+<fim>
+<inicio>
+Questão (nível difícil):
+Sobre a tomada de decisão apoiada, segundo a Lei Federal nº 13.146/2015 (Lei Brasileira de Inclusão), assinale a alternativa CORRETA.
+(A) A tomada de decisão apoiada é um processo em que a pessoa com deficiência elege 2 pessoas idôneas, com as quais mantenha vínculo e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil.
+(B) O pedido de tomada de decisão apoiada deve ser feito pelo apoiador, que apresenta ao juiz o termo com os limites do apoio e o prazo de vigência.
+(C) A decisão tomada por pessoa apoiada sobre negócio jurídico terá validade e efeitos sobre terceiros apenas se contar com a assinatura dos apoiadores.
+(D) Antes de se pronunciar sobre o pedido de tomada de decisão apoiada, o juiz, assistido por equipe multidisciplinar e após oitiva do Ministério Público, ouvirá pessoalmente o requerente e as pessoas que lhe prestarão apoio. (resposta correta)
+(E) A pessoa apoiada não pode, em nenhuma hipótese, solicitar o término do acordo firmado em processo de tomada de decisão apoiada, pois isso depende de decisão judicial.
+<fim>
+<inicio>
+Questão (nível difícil):
+Sobre a curatela e a capacidade civil da pessoa com deficiência, segundo a Lei Federal nº 13.146/2015 (Lei Brasileira de Inclusão), assinale a alternativa INCORRETA.
+(A) A curatela é medida extraordinária, e a sentença deve indicar as razões e motivações de sua definição, preservados os interesses do curatelado.
+(B) A curatela afetará tão somente os atos relacionados aos direitos de natureza patrimonial e negocial.
+(C) A definição da curatela não alcança o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto.
+(D) Para a emissão de documentos oficiais, não poderá ser exigida a situação de curatela da pessoa com deficiência.
+(E) No caso de pessoa em situação de institucionalização, o juiz, ao nomear curador, deve dar preferência ao dirigente da instituição onde ela estiver abrigada. (resposta correta)
+<fim>
+<inicio>
+Questão:
+O sistema monetário de certo país é composto, exclusivamente, por notas de $1, $4, $6 e $10.
+Com 3 dessas notas nunca será possível obter
+(A) $17.
+(B) $21.
+(C) $23. (resposta correta)
+(D) $24.
+(E) $26.
+<fim>
+<inicio>
+15 
+Considere 3 pontos A, B e C no plano. Se a distância entre os pontos A e B é 80 cm e a distância entre os pontos A e C é 60 cm, então a distância entre os pontos B e C pode valer
+(A) no mínimo 30 cm e no máximo 150 cm.
+(B) no mínimo 20 cm e no máximo 150 cm.
+(C) no mínimo 30 cm e no máximo 140 cm.
+(D) no mínimo 20 cm e no máximo 140 cm. (resposta correta)
+(E) no mínimo 30 cm e no máximo 130 cm.
+<fim>
+<inicio>
 Questão (nível difícil, um pouco acima da original):
 Marta entra em uma loja para comprar uma batedeira e um ventilador. O vendedor oferece desconto de 20% sobre o preço da batedeira e desconto de 10% sobre o preço do ventilador. Com os descontos, a batedeira passa a custar 60% a mais do que o ventilador.
 Marta aceita a oferta e paga R$ 468,00 pelos dois produtos.
