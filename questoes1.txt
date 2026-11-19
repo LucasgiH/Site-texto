@@ -1,4 +1,32 @@
 <inicio>
+Questão 02 – Um jogador de futebol, que jogava fora do país, declarou: “Neste país é que é bom. Aqui a gente recebe semanalmente, de 15 em 15 dias”. 
+Essa frase significa que, nesse país, 
+(A) os salários são pagos com atraso. (resposta correta) (assunto: interpretacao de texto/erro)
+(B) todos os jogadores recebem em dia. 
+(C) os pagamentos são feitos semanalmente. 
+(D) os salários nunca são pagos. 
+(E) só ao final de cada mês os salários são quitados.
+<fim>
+<inicio>
+Questão 01 – “Há sempre uma casca de banana perto do local de uma tragédia.” 
+Nessa frase, a casca de banana significa 
+(A) distração de alguém. 
+(B) perigo de acidente. (resposta correta) (assunto: interpretacao de texto/erro)
+(C) desprezo por normas de educação. 
+(D) falta de cuidado ao andar na rua. 
+(E) intenção de criar um problema.
+<fim>
+<inicio>
+Questão (nível difícil):
+A NOB/SUAS 2012 (Resolução CNAS nº 33/2012) estabelece princípios que organizam a oferta da proteção socioassistencial, entre eles a universalidade, a gratuidade, a integralidade da proteção social, a intersetorialidade e a equidade.
+Assinale a opção que apresenta uma situação em que um desses princípios não é violado.
+(A) Um CRAS cobra uma contribuição mensal simbólica das famílias para que seus filhos participem do serviço de convivência e fortalecimento de vínculos.
+(B) Uma entidade socioassistencial condiciona o atendimento à participação do usuário em atividades religiosas promovidas por ela.
+(C) Em um território onde a demanda pelo serviço de convivência é maior que o número de vagas, o município prioriza as famílias em maior situação de vulnerabilidade e risco social. (resposta correta) (assunto: principios da assistencia social/acerto)
+(D) Um município oferta apenas benefícios eventuais isolados às famílias atendidas, sem articulá-los a serviços socioassistenciais nem a outras provisões do SUAS.
+(E) O CREAS acompanha uma família com adolescente em situação de violação de direitos, mas recusa-se a pactuar fluxos com as áreas de saúde e educação, por considerar que o caso é só da assistência social.
+<fim>
+<inicio>
 Questão (nível médio):
 Sobre a Política Nacional de Assistência Social (PNAS/2004), assinale a alternativa CORRETA.
 (A) A proteção social especial de alta complexidade atende famílias e indivíduos que mantêm seus vínculos familiares e comunitários preservados, mas que têm direitos violados.
