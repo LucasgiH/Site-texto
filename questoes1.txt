@@ -1,4 +1,30 @@
 <inicio>
+Questão (nível difícil):
+Sobre a Tipificação Nacional de Serviços Socioassistenciais (Resolução CNAS nº 109/2009), assinale a alternativa INCORRETA.
+(A) O Serviço de Proteção e Atendimento Integral à Família (PAIF) consiste no trabalho social com famílias, e é ofertado obrigatoriamente no CRAS.
+(B) O Serviço de Convivência e Fortalecimento de Vínculos tem caráter complementar e preventivo ao trabalho social com famílias do PAIF, e pode ser executado no CRAS ou em unidades referenciadas a ele.
+(C) O Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos (PAEFI) é ofertado no CREAS e apoia famílias com um ou mais membros em situação de ameaça ou violação de direitos.
+(D) O Serviço de Acolhimento em República oferece proteção, apoio e moradia a grupos de pessoas maiores de 18 anos em situação de vulnerabilidade, como jovens egressos de serviços de acolhimento e adultos em processo de saída das ruas.
+(E) O Serviço de Acolhimento Institucional, na modalidade casa-lar, atende até 20 usuários por unidade e funciona em estrutura semelhante à de uma residência comum. (resposta correta) (assunto: servicos socioassistenciais/erro)
+<fim>
+<inicio>
+Questão:
+O sistema monetário de certo lugar é composto, exclusivamente, por notas de $3, $7, $10 e $25. Com 4 dessas notas (podendo repetir) nunca será possível obter
+(A) $26.
+(B) $31.
+(C) $38.
+(D) $43. (resposta correta) (assunto: operacoes com numeros naturais/acerto)
+(E) $45.
+<fim>
+<inicio>
+Questão 03 – Um milionário famoso declarou certa vez: “Pinto os cabelos de preto para os encontros amorosos e de branco para as reuniões de negócios”. Nesse caso, as imagens que esse milionário está tentando criar no interlocutor são, respectivamente, de 
+(A) energia / consideração. 
+(B) beleza / atração física. 
+(C) riqueza / respeito. 
+(D) juventude / experiência. (resposta correta) (assunto: interpretacao de texto/acerto)
+(E) pressa / vagarosidade.
+<fim>
+<inicio>
 Questão 02 – Um jogador de futebol, que jogava fora do país, declarou: “Neste país é que é bom. Aqui a gente recebe semanalmente, de 15 em 15 dias”. 
 Essa frase significa que, nesse país, 
 (A) os salários são pagos com atraso. (resposta correta) (assunto: interpretacao de texto/erro)
