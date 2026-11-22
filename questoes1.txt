@@ -1,4 +1,12 @@
 <inicio>
+Questão 05 – Assinale a frase abaixo em que não se cometeu nenhum erro ortográfico. 
+(A) Meu filho ainda é adolecente. 
+(B) Nada todos os dias na picina. 
+(C) Xingou os adversários de facistas. 
+(D) Toda regra tem exceção. (resposta correta) (assunto: ortografia/acerto)
+(E) Ninguém nace feliz ou infeliz.
+<fim>
+<inicio>
 Questão (nível difícil):
 Sobre a Tipificação Nacional de Serviços Socioassistenciais (Resolução CNAS nº 109/2009), assinale a alternativa INCORRETA.
 (A) O Serviço de Proteção e Atendimento Integral à Família (PAIF) consiste no trabalho social com famílias, e é ofertado obrigatoriamente no CRAS.
