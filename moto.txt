@@ -1,3 +1,7 @@
+<inicio>
+1
+<fim>
+<inicio>
 Moto preservação 261121
 
 Tarefas realizadas:
@@ -7,6 +11,7 @@ Tarefas realizadas:
 [ ] Verificar se existe vazamento de óleo ou combustível
 [ ] Deixar a moto protegida e corretamente estacionada
 [ ] pesquisar o nome e modelo da moto (talvez seja Honda CG 150 Titan KS 2008)
+[ ] pesquisar como movimentar a moto protege a suspensão
 
 Conhecimento adquirido:
 gira a chave acende luz neutro bem fraco
@@ -46,3 +51,4 @@ Principais benefícios de movimentar a moto semanalmente
 Dica prática para o passeio semanal
 
 Não basta apenas ligar a moto na garagem por dois minutos. O ideal é rodar por pelo menos 15 a 20 minutos em velocidade de cruzeiro. Apenas ligar o motor parado não gera rotação suficiente para carregar a bateria de forma eficaz e ainda acumula umidade (água) no escapamento, acelerando a corrosão interna.
+<fim>
