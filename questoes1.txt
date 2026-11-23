@@ -1,4 +1,22 @@
 <inicio>
+Questão 11 
+Considere a igualdade 2/5 + 3/8=x/200. A soma dos algarismos do número x é
+(A) 7.
+(B) 8.
+(C) 9.
+(D) 10.
+(E) 11. (Resposta correta) (assunto: operacoes com fracoes/erro)
+<fim>
+<inicio>
+Questão 04 – Um famoso ator de cinema declarou: “Eu tive uma grande vantagem que os meus filhos não tiveram. Eu nasci pobre.” 
+Deduz-se dessa frase que esse ator 
+(A) foi sempre muito infeliz. 
+(B) viveu na pobreza toda a vida. 
+(C) enriqueceu em sua profissão. (resposta correta) (assunto: interpretacao de texto/erro)
+(D) não teve filhos. 
+(E) casou-se e melhorou de vida.
+<fim>
+<inicio>
 Questão 05 – Assinale a frase abaixo em que não se cometeu nenhum erro ortográfico. 
 (A) Meu filho ainda é adolecente. 
 (B) Nada todos os dias na picina. 
