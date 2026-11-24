@@ -1,4 +1,59 @@
 <inicio>
+QUESTÃO 27) A ___________ refere à centralidade ___________ como fator determinante para a compreensão das situações de vulnerabilidade e risco sociais, bem como para o seu enfrentamento. A adoção da perspectiva da _____________ se materializa a partir da descentralização da política de assistência social e consequente oferta dos ______________ em locais próximos aos seus usuários. Complete as lacunas CORRETAMENTE:
+A) territorialização; do CRAS; contrarreferência, projetos sociais.
+B) matricialidade; sociofamiliar; territorialização; serviços socioassistenciais.
+C) matricialidade; da família; matricialidade; serviços socioassistenciais. 
+D) territorialização; do território; territorialização; serviços socioassistenciais. (resposta correta) (assunto: territorialização/erro)
+<fim>
+<inicio>
+QUESTÃO 26) “O Centro de Estudos e Ação 
+Social de São Paulo (CEAS), considerado como manifestação original do Serviço Social no Brasil, surge em 1932 com o incentivo e sob controle da hierarquia. Aparece como condensação da necessidade sentida por setores da Ação Social e Ação Católica – especialmente a primeira – de tornar mais efetiva e dar maior rendimento às iniciativas e obras promovidas pela filantropia das classes dominantes paulistas sob patrocínio da Igreja e de dinamizar a mobilização do laicado (...). Até dezembro de 1932 o CEAS fundou 4 Centros operários onde suas propagandistas, por meio de aulas de tricô e trabalhos manuais, conferências, conselhos de higiene etc., procuraram interessar e atrair as operárias e entrar assim em contato com as classes trabalhadoras, estudar-lhes o ambiente e necessidades.” (IAMAMOTO. Marilda Vilela, Raul de Carvalho. Relações Sociais e Serviço Social no Brasil. 41 ed. Cortez, 2014. P 178-182)
+Esses “Centros operários” ofereciam vantagens e seriam ponto de partida para um desenvolvimento mais amplo para a manifestação do Serviço Social da época. Assinale a alternativa que NÃO se constitui como uma dessas vantagens.
+A) Centros oriundos de um sistema anárquico, 
+que procurava através da Igreja incentivar jovens a serem parte do mesmo sistema. (resposta correta) (assunto: historia do servico social/acerto)
+B) Campos de observação e de prática para a 
+trabalhadora social, que aí completava e aplicava os seus estudos teóricos.
+C) Centros de educação familiar, onde se
+procurava estimular nas jovens operárias o amor ao lar e prepará-las para o cumprimento de seus deveres nessa missão.
+D) Núcleos de formação de elites que iriam
+depois agir na massa operária. Com esse intuito, não somente cuidavam de estimular nessas jovens uma fé viva e esclarecida, o sentimento do exato cumprimento do dever, como também despertar-lhes o espírito de apostolado da classe pela classe, com a noção das responsabilidades que lhes incumbiam nesse terreno.
+<fim>
+<inicio>
+Questão 12 – Um artigo que custava R$ 450,00 foi comprado por R$ 378,00. O desconto dado nessa compra foi de 
+(A) 10%. 
+(B) 12%. 
+(C) 14%. 
+(D) 16%. (resposta correta) (assunto: porcentagem/acerto)
+(E) 18%.
+<fim>
+<inicio>
+Questão:
+Considere a igualdade 2/3 + 3/4 + 7/10 = x/60. A soma dos algarismos do número x é
+(A) 10. (resposta correta) (assunto: operacoes com fracoes/acerto)
+(B) 11.
+(C) 12.
+(D) 13.
+(E) 14.
+<fim>
+<inicio>
+Questão:
+Considere a igualdade 1/4 + 5/6 + 3/10 = x/60. A soma dos algarismos do número x é
+(A) 9.
+(B) 10.
+(C) 11. (resposta correta) (assunto: operacoes com fracoes/acerto)
+(D) 12.
+(E) 13.
+<fim>
+<inicio>
+Questão:
+Considere a igualdade 3/4 + 2/5 = x/60. A soma dos algarismos do número x é
+(A) 9.
+(B) 11.
+(C) 13.
+(D) 15. (Resposta correta) (assunto: operacoes com fracoes/acerto)
+(E) 17.
+<fim>
+<inicio>
 Questão 11 
 Considere a igualdade 2/5 + 3/8=x/200. A soma dos algarismos do número x é
 (A) 7.

@@ -1,0 +1,25 @@
+<inicio>
+comprou:
+[x] 1 peito de feango sem osso
+[x] 200g creme de leite mococa (mais barato)
+[x] 100g batata palha marpa extra fina (mais barato)
+
+preparo:
+na panela de pressao de 20 a 30 minutos
+[x] agua ate cobrir frango
+[x] 5g sazom legumes
+[x] 1 colher sal
+[x] a gosto tempero parecido com oregano
+
+[x] escorrer agua
+[x] sacudir panela desfiar frango panela fechada
+[x] reservar no freezer
+
+proximo passo:
+[ ] comprar pimentao picar
+[ ] picar cebola
+[ ] cozinhar pressao cenoura pequena
+[ ] molho de tomate
+[ ] comprar cheiro verde cebola e salsinha
+[ ] comprar maionese
+<fim>
