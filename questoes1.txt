@@ -1,4 +1,20 @@
 <inicio>
+QUESTÃO 1) Mia Couto, escritor moçambicano, é autor de Um rio chamado tempo, uma casa chamada terra, cuja capa é possível visualizar na imagem abaixo. https://books.google.com.br/books?id=GXl4YZMFc0UC&pg=P
+T4&hl=pt-R&source=gbs_toc_r&cad=3#v=onepage&q&f=false
+A figura de linguagem que caracteriza o título é
+A) hipérbole.
+B) metonímia.
+C) metáfora. (resposta correta) (assunto: significacao das palavras/acerto)
+D) inversão.
+<fim>
+<inicio>
+QUESTÃO 28) O Plano Municipal (ou do DF) de Assistência Social é uma ferramenta obrigatória de gestão da política de assistência social nas três esferas de governo. Sua construção e implementação está prevista na LOAS, PNAS (2004) e NOB/SUAS (2005). (Orientações técnicas Centro de Referência de Assistência Social- CRAS/ Ministério do Desenvolvimento Social e Combate à Fome- 1.ed.-2009. p.15.). São elementos constituintes desse Plano, EXCETO:
+A) realização de estudos e diagnósticos da realidade.
+B) estabelecimento de diretrizes e prioridade.
+C) determinação do número mínimo e máximo de participantes. (resposta correta) (assunto: SUAS organização e gestão/erro)
+D) estabelecimento das ações de monitoramento e avaliação.
+<fim>
+<inicio>
 QUESTÃO 27) A ___________ refere à centralidade ___________ como fator determinante para a compreensão das situações de vulnerabilidade e risco sociais, bem como para o seu enfrentamento. A adoção da perspectiva da _____________ se materializa a partir da descentralização da política de assistência social e consequente oferta dos ______________ em locais próximos aos seus usuários. Complete as lacunas CORRETAMENTE:
 A) territorialização; do CRAS; contrarreferência, projetos sociais.
 B) matricialidade; sociofamiliar; territorialização; serviços socioassistenciais.
