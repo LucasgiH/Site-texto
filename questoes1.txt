@@ -1,4 +1,18 @@
 <inicio>
+2. São considerados direitos sociais de acordo com o artigo 6º da Constituição do Brasil:
+A) a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados. (resposta correta) (assunto: Constituição Federal art 6/acerto)
+B) a segurança social, a proteção aos moradores de rua, a saúde, a educação e a assistência social.
+C) a proteção à maternidade e a infância, a saúde e a cultura.
+D) a segurança social, a proteção aos moradores de rua, a assistência social e a cultura.
+<fim>
+<inicio>
+1. O artigo 3º da Constituição do Brasil não contempla como objetivo fundamental:
+A) a garantia do desenvolvimento nacional.
+B) a valorização social do trabalho e da livre iniciativa. (resposta correta) (assunto: objetivos da republica/erro)
+C) a construção de uma sociedade livre, justa e solidária.
+D) a erradicação da pobreza e das desigualdades sociais e regionais
+<fim>
+<inicio>
 QUESTÃO 29) As atribuições e competências dos profissionais de Serviço Social, sejam aquelas realizadas na saúde ou em outro espaço sócio-ocupacional, são orientadas e norteadas por direitos e deveres constantes no Código de Ética Profissional e na Lei de Regulamentação da Profissão, que devem ser observados e respeitados, tanto pelos profissionais quanto pelas instituições empregadoras.
 No que se refere aos direitos dos assistentes sociais, o artigo 2.º do Código de Ética Profissional do Assistente Social assegura, EXCETO:
 A) apoiar e/ou participar dos movimentos sociais e organizações populares vinculados à luta pela consolidação e ampliação da democracia e dos direitos de cidadania. (resposta correta) (assunto: etica do assistente social/erro)
